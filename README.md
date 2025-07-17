@@ -156,10 +156,14 @@ builder.Services.AddHostedService<Worker>();
 Pasos:
 1. Abre la terminal en la carpeta del frontend.
 2. Instala dependencias:
+  ```bash
   npm install
-3. Ejecuta el servidor de desarrollo:
+  ```
+4. Ejecuta el servidor de desarrollo:
+  ```bash
   npm run dev
-4. Abre en tu navegador:
+  ```
+5. Abre en tu navegador:
   http://localhost:5173
 
 
