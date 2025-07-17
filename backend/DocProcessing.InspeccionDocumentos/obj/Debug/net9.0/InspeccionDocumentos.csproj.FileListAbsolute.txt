@@ -1,0 +1,128 @@
+D:\C#\Prueba EQ\backend\Nueva carpeta\InspeccionDocumentos\bin\Debug\net9.0\appsettings.Development.json
+D:\C#\Prueba EQ\backend\Nueva carpeta\InspeccionDocumentos\bin\Debug\net9.0\appsettings.json
+D:\C#\Prueba EQ\backend\Nueva carpeta\InspeccionDocumentos\bin\Debug\net9.0\InspeccionDocumentos.exe
+D:\C#\Prueba EQ\backend\Nueva carpeta\InspeccionDocumentos\bin\Debug\net9.0\InspeccionDocumentos.deps.json
+D:\C#\Prueba EQ\backend\Nueva carpeta\InspeccionDocumentos\bin\Debug\net9.0\InspeccionDocumentos.runtimeconfig.json
+D:\C#\Prueba EQ\backend\Nueva carpeta\InspeccionDocumentos\bin\Debug\net9.0\InspeccionDocumentos.dll
+D:\C#\Prueba EQ\backend\Nueva carpeta\InspeccionDocumentos\bin\Debug\net9.0\InspeccionDocumentos.pdb
+D:\C#\Prueba EQ\backend\Nueva carpeta\InspeccionDocumentos\bin\Debug\net9.0\itext.barcodes.dll
+D:\C#\Prueba EQ\backend\Nueva carpeta\InspeccionDocumentos\bin\Debug\net9.0\itext.bouncy-castle-connector.dll
+D:\C#\Prueba EQ\backend\Nueva carpeta\InspeccionDocumentos\bin\Debug\net9.0\itext.forms.dll
+D:\C#\Prueba EQ\backend\Nueva carpeta\InspeccionDocumentos\bin\Debug\net9.0\itext.io.dll
+D:\C#\Prueba EQ\backend\Nueva carpeta\InspeccionDocumentos\bin\Debug\net9.0\itext.kernel.dll
+D:\C#\Prueba EQ\backend\Nueva carpeta\InspeccionDocumentos\bin\Debug\net9.0\itext.layout.dll
+D:\C#\Prueba EQ\backend\Nueva carpeta\InspeccionDocumentos\bin\Debug\net9.0\itext.pdfa.dll
+D:\C#\Prueba EQ\backend\Nueva carpeta\InspeccionDocumentos\bin\Debug\net9.0\itext.pdfua.dll
+D:\C#\Prueba EQ\backend\Nueva carpeta\InspeccionDocumentos\bin\Debug\net9.0\itext.sign.dll
+D:\C#\Prueba EQ\backend\Nueva carpeta\InspeccionDocumentos\bin\Debug\net9.0\itext.styledxmlparser.dll
+D:\C#\Prueba EQ\backend\Nueva carpeta\InspeccionDocumentos\bin\Debug\net9.0\itext.svg.dll
+D:\C#\Prueba EQ\backend\Nueva carpeta\InspeccionDocumentos\bin\Debug\net9.0\itext.commons.dll
+D:\C#\Prueba EQ\backend\Nueva carpeta\InspeccionDocumentos\bin\Debug\net9.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\C#\Prueba EQ\backend\Nueva carpeta\InspeccionDocumentos\bin\Debug\net9.0\Microsoft.Extensions.Configuration.dll
+D:\C#\Prueba EQ\backend\Nueva carpeta\InspeccionDocumentos\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\C#\Prueba EQ\backend\Nueva carpeta\InspeccionDocumentos\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\C#\Prueba EQ\backend\Nueva carpeta\InspeccionDocumentos\bin\Debug\net9.0\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\C#\Prueba EQ\backend\Nueva carpeta\InspeccionDocumentos\bin\Debug\net9.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\C#\Prueba EQ\backend\Nueva carpeta\InspeccionDocumentos\bin\Debug\net9.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\C#\Prueba EQ\backend\Nueva carpeta\InspeccionDocumentos\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Json.dll
+D:\C#\Prueba EQ\backend\Nueva carpeta\InspeccionDocumentos\bin\Debug\net9.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\C#\Prueba EQ\backend\Nueva carpeta\InspeccionDocumentos\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\C#\Prueba EQ\backend\Nueva carpeta\InspeccionDocumentos\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\C#\Prueba EQ\backend\Nueva carpeta\InspeccionDocumentos\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\C#\Prueba EQ\backend\Nueva carpeta\InspeccionDocumentos\bin\Debug\net9.0\Microsoft.Extensions.Diagnostics.dll
+D:\C#\Prueba EQ\backend\Nueva carpeta\InspeccionDocumentos\bin\Debug\net9.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\C#\Prueba EQ\backend\Nueva carpeta\InspeccionDocumentos\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\C#\Prueba EQ\backend\Nueva carpeta\InspeccionDocumentos\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\C#\Prueba EQ\backend\Nueva carpeta\InspeccionDocumentos\bin\Debug\net9.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\C#\Prueba EQ\backend\Nueva carpeta\InspeccionDocumentos\bin\Debug\net9.0\Microsoft.Extensions.Hosting.dll
+D:\C#\Prueba EQ\backend\Nueva carpeta\InspeccionDocumentos\bin\Debug\net9.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\C#\Prueba EQ\backend\Nueva carpeta\InspeccionDocumentos\bin\Debug\net9.0\Microsoft.Extensions.Http.dll
+D:\C#\Prueba EQ\backend\Nueva carpeta\InspeccionDocumentos\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\C#\Prueba EQ\backend\Nueva carpeta\InspeccionDocumentos\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\C#\Prueba EQ\backend\Nueva carpeta\InspeccionDocumentos\bin\Debug\net9.0\Microsoft.Extensions.Logging.Configuration.dll
+D:\C#\Prueba EQ\backend\Nueva carpeta\InspeccionDocumentos\bin\Debug\net9.0\Microsoft.Extensions.Logging.Console.dll
+D:\C#\Prueba EQ\backend\Nueva carpeta\InspeccionDocumentos\bin\Debug\net9.0\Microsoft.Extensions.Logging.Debug.dll
+D:\C#\Prueba EQ\backend\Nueva carpeta\InspeccionDocumentos\bin\Debug\net9.0\Microsoft.Extensions.Logging.EventLog.dll
+D:\C#\Prueba EQ\backend\Nueva carpeta\InspeccionDocumentos\bin\Debug\net9.0\Microsoft.Extensions.Logging.EventSource.dll
+D:\C#\Prueba EQ\backend\Nueva carpeta\InspeccionDocumentos\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\C#\Prueba EQ\backend\Nueva carpeta\InspeccionDocumentos\bin\Debug\net9.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\C#\Prueba EQ\backend\Nueva carpeta\InspeccionDocumentos\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\C#\Prueba EQ\backend\Nueva carpeta\InspeccionDocumentos\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\C#\Prueba EQ\backend\Nueva carpeta\InspeccionDocumentos\bin\Debug\net9.0\System.Diagnostics.EventLog.dll
+D:\C#\Prueba EQ\backend\Nueva carpeta\InspeccionDocumentos\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Diagnostics.EventLog.Messages.dll
+D:\C#\Prueba EQ\backend\Nueva carpeta\InspeccionDocumentos\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Diagnostics.EventLog.dll
+D:\C#\Prueba EQ\backend\Nueva carpeta\InspeccionDocumentos\obj\Debug\net9.0\InspeccionDocumentos.csproj.AssemblyReference.cache
+D:\C#\Prueba EQ\backend\Nueva carpeta\InspeccionDocumentos\obj\Debug\net9.0\InspeccionDocumentos.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Prueba EQ\backend\Nueva carpeta\InspeccionDocumentos\obj\Debug\net9.0\InspeccionDocumentos.AssemblyInfoInputs.cache
+D:\C#\Prueba EQ\backend\Nueva carpeta\InspeccionDocumentos\obj\Debug\net9.0\InspeccionDocumentos.AssemblyInfo.cs
+D:\C#\Prueba EQ\backend\Nueva carpeta\InspeccionDocumentos\obj\Debug\net9.0\InspeccionDocumentos.csproj.CoreCompileInputs.cache
+D:\C#\Prueba EQ\backend\Nueva carpeta\InspeccionDocumentos\obj\Debug\net9.0\Inspecci.C5B2328B.Up2Date
+D:\C#\Prueba EQ\backend\Nueva carpeta\InspeccionDocumentos\obj\Debug\net9.0\InspeccionDocumentos.dll
+D:\C#\Prueba EQ\backend\Nueva carpeta\InspeccionDocumentos\obj\Debug\net9.0\refint\InspeccionDocumentos.dll
+D:\C#\Prueba EQ\backend\Nueva carpeta\InspeccionDocumentos\obj\Debug\net9.0\InspeccionDocumentos.pdb
+D:\C#\Prueba EQ\backend\Nueva carpeta\InspeccionDocumentos\obj\Debug\net9.0\InspeccionDocumentos.genruntimeconfig.cache
+D:\C#\Prueba EQ\backend\Nueva carpeta\InspeccionDocumentos\obj\Debug\net9.0\ref\InspeccionDocumentos.dll
+D:\C#\Prueba EQ\backend\DocProcessing.InspeccionDocumentos\bin\Debug\net9.0\appsettings.Development.json
+D:\C#\Prueba EQ\backend\DocProcessing.InspeccionDocumentos\bin\Debug\net9.0\appsettings.json
+D:\C#\Prueba EQ\backend\DocProcessing.InspeccionDocumentos\bin\Debug\net9.0\InspeccionDocumentos.exe
+D:\C#\Prueba EQ\backend\DocProcessing.InspeccionDocumentos\bin\Debug\net9.0\InspeccionDocumentos.deps.json
+D:\C#\Prueba EQ\backend\DocProcessing.InspeccionDocumentos\bin\Debug\net9.0\InspeccionDocumentos.runtimeconfig.json
+D:\C#\Prueba EQ\backend\DocProcessing.InspeccionDocumentos\bin\Debug\net9.0\InspeccionDocumentos.dll
+D:\C#\Prueba EQ\backend\DocProcessing.InspeccionDocumentos\bin\Debug\net9.0\InspeccionDocumentos.pdb
+D:\C#\Prueba EQ\backend\DocProcessing.InspeccionDocumentos\bin\Debug\net9.0\itext.barcodes.dll
+D:\C#\Prueba EQ\backend\DocProcessing.InspeccionDocumentos\bin\Debug\net9.0\itext.bouncy-castle-connector.dll
+D:\C#\Prueba EQ\backend\DocProcessing.InspeccionDocumentos\bin\Debug\net9.0\itext.forms.dll
+D:\C#\Prueba EQ\backend\DocProcessing.InspeccionDocumentos\bin\Debug\net9.0\itext.io.dll
+D:\C#\Prueba EQ\backend\DocProcessing.InspeccionDocumentos\bin\Debug\net9.0\itext.kernel.dll
+D:\C#\Prueba EQ\backend\DocProcessing.InspeccionDocumentos\bin\Debug\net9.0\itext.layout.dll
+D:\C#\Prueba EQ\backend\DocProcessing.InspeccionDocumentos\bin\Debug\net9.0\itext.pdfa.dll
+D:\C#\Prueba EQ\backend\DocProcessing.InspeccionDocumentos\bin\Debug\net9.0\itext.pdfua.dll
+D:\C#\Prueba EQ\backend\DocProcessing.InspeccionDocumentos\bin\Debug\net9.0\itext.sign.dll
+D:\C#\Prueba EQ\backend\DocProcessing.InspeccionDocumentos\bin\Debug\net9.0\itext.styledxmlparser.dll
+D:\C#\Prueba EQ\backend\DocProcessing.InspeccionDocumentos\bin\Debug\net9.0\itext.svg.dll
+D:\C#\Prueba EQ\backend\DocProcessing.InspeccionDocumentos\bin\Debug\net9.0\itext.commons.dll
+D:\C#\Prueba EQ\backend\DocProcessing.InspeccionDocumentos\bin\Debug\net9.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\C#\Prueba EQ\backend\DocProcessing.InspeccionDocumentos\bin\Debug\net9.0\Microsoft.Extensions.Configuration.dll
+D:\C#\Prueba EQ\backend\DocProcessing.InspeccionDocumentos\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\C#\Prueba EQ\backend\DocProcessing.InspeccionDocumentos\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\C#\Prueba EQ\backend\DocProcessing.InspeccionDocumentos\bin\Debug\net9.0\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\C#\Prueba EQ\backend\DocProcessing.InspeccionDocumentos\bin\Debug\net9.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\C#\Prueba EQ\backend\DocProcessing.InspeccionDocumentos\bin\Debug\net9.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\C#\Prueba EQ\backend\DocProcessing.InspeccionDocumentos\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Json.dll
+D:\C#\Prueba EQ\backend\DocProcessing.InspeccionDocumentos\bin\Debug\net9.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\C#\Prueba EQ\backend\DocProcessing.InspeccionDocumentos\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\C#\Prueba EQ\backend\DocProcessing.InspeccionDocumentos\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\C#\Prueba EQ\backend\DocProcessing.InspeccionDocumentos\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\C#\Prueba EQ\backend\DocProcessing.InspeccionDocumentos\bin\Debug\net9.0\Microsoft.Extensions.Diagnostics.dll
+D:\C#\Prueba EQ\backend\DocProcessing.InspeccionDocumentos\bin\Debug\net9.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\C#\Prueba EQ\backend\DocProcessing.InspeccionDocumentos\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\C#\Prueba EQ\backend\DocProcessing.InspeccionDocumentos\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\C#\Prueba EQ\backend\DocProcessing.InspeccionDocumentos\bin\Debug\net9.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\C#\Prueba EQ\backend\DocProcessing.InspeccionDocumentos\bin\Debug\net9.0\Microsoft.Extensions.Hosting.dll
+D:\C#\Prueba EQ\backend\DocProcessing.InspeccionDocumentos\bin\Debug\net9.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\C#\Prueba EQ\backend\DocProcessing.InspeccionDocumentos\bin\Debug\net9.0\Microsoft.Extensions.Http.dll
+D:\C#\Prueba EQ\backend\DocProcessing.InspeccionDocumentos\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\C#\Prueba EQ\backend\DocProcessing.InspeccionDocumentos\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\C#\Prueba EQ\backend\DocProcessing.InspeccionDocumentos\bin\Debug\net9.0\Microsoft.Extensions.Logging.Configuration.dll
+D:\C#\Prueba EQ\backend\DocProcessing.InspeccionDocumentos\bin\Debug\net9.0\Microsoft.Extensions.Logging.Console.dll
+D:\C#\Prueba EQ\backend\DocProcessing.InspeccionDocumentos\bin\Debug\net9.0\Microsoft.Extensions.Logging.Debug.dll
+D:\C#\Prueba EQ\backend\DocProcessing.InspeccionDocumentos\bin\Debug\net9.0\Microsoft.Extensions.Logging.EventLog.dll
+D:\C#\Prueba EQ\backend\DocProcessing.InspeccionDocumentos\bin\Debug\net9.0\Microsoft.Extensions.Logging.EventSource.dll
+D:\C#\Prueba EQ\backend\DocProcessing.InspeccionDocumentos\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\C#\Prueba EQ\backend\DocProcessing.InspeccionDocumentos\bin\Debug\net9.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\C#\Prueba EQ\backend\DocProcessing.InspeccionDocumentos\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\C#\Prueba EQ\backend\DocProcessing.InspeccionDocumentos\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\C#\Prueba EQ\backend\DocProcessing.InspeccionDocumentos\bin\Debug\net9.0\System.Diagnostics.EventLog.dll
+D:\C#\Prueba EQ\backend\DocProcessing.InspeccionDocumentos\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Diagnostics.EventLog.Messages.dll
+D:\C#\Prueba EQ\backend\DocProcessing.InspeccionDocumentos\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Diagnostics.EventLog.dll
+D:\C#\Prueba EQ\backend\DocProcessing.InspeccionDocumentos\obj\Debug\net9.0\InspeccionDocumentos.csproj.AssemblyReference.cache
+D:\C#\Prueba EQ\backend\DocProcessing.InspeccionDocumentos\obj\Debug\net9.0\InspeccionDocumentos.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Prueba EQ\backend\DocProcessing.InspeccionDocumentos\obj\Debug\net9.0\InspeccionDocumentos.AssemblyInfoInputs.cache
+D:\C#\Prueba EQ\backend\DocProcessing.InspeccionDocumentos\obj\Debug\net9.0\InspeccionDocumentos.AssemblyInfo.cs
+D:\C#\Prueba EQ\backend\DocProcessing.InspeccionDocumentos\obj\Debug\net9.0\InspeccionDocumentos.csproj.CoreCompileInputs.cache
+D:\C#\Prueba EQ\backend\DocProcessing.InspeccionDocumentos\obj\Debug\net9.0\Inspecci.C5B2328B.Up2Date
+D:\C#\Prueba EQ\backend\DocProcessing.InspeccionDocumentos\obj\Debug\net9.0\InspeccionDocumentos.dll
+D:\C#\Prueba EQ\backend\DocProcessing.InspeccionDocumentos\obj\Debug\net9.0\refint\InspeccionDocumentos.dll
+D:\C#\Prueba EQ\backend\DocProcessing.InspeccionDocumentos\obj\Debug\net9.0\InspeccionDocumentos.pdb
+D:\C#\Prueba EQ\backend\DocProcessing.InspeccionDocumentos\obj\Debug\net9.0\InspeccionDocumentos.genruntimeconfig.cache
+D:\C#\Prueba EQ\backend\DocProcessing.InspeccionDocumentos\obj\Debug\net9.0\ref\InspeccionDocumentos.dll

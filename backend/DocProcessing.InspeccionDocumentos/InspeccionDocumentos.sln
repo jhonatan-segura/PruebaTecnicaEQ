@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InspeccionDocumentos", "InspeccionDocumentos.csproj", "{5C92E84E-B625-7914-D08F-B980C8F155FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C92E84E-B625-7914-D08F-B980C8F155FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C92E84E-B625-7914-D08F-B980C8F155FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C92E84E-B625-7914-D08F-B980C8F155FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C92E84E-B625-7914-D08F-B980C8F155FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E427A829-3363-400E-AACC-A3D11CBCA821}
+	EndGlobalSection
+EndGlobal

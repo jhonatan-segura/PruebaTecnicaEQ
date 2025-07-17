@@ -1,0 +1,12 @@
+# Backend (.NET)
+backend/bin/
+backend/obj/
+backend/*.user
+
+# Frontend (React)
+frontend/node_modules/
+frontend/dist/
+
+# General
+*.log
+.env
