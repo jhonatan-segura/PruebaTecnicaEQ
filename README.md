@@ -9,7 +9,7 @@ Este repositorio contiene un sistema de ejemplo con:
 ---
 <img width="813" height="624" alt="imagen" src="https://github.com/user-attachments/assets/5f233bdc-15db-45d1-aaa5-a1fed33285a8" />
 
-Pantalla de inicio creada
+*Pantalla de inicio creada*
 
 ✅ Requisitos
 
@@ -47,10 +47,11 @@ Appsettings.json
 
 Configura appsettings.json con tu cadena de conexión a SQL Server.
 
-
+```json
 "ConnectionStrings": {
   "DefaultConnection": "Server=localhost;Database=DocumentProcessing;Trusted_Connection=True;TrustServerCertificate=True"
 }
+```
 
 El nombre de la base de datos es DocumentProcessing
 
@@ -76,7 +77,7 @@ El intervalo de ejecución del servicio está definido en el archivo `appsetting
 
 📄 `appsettings.json`
 
-
+```json
 {
   "Logging": {
     "LogLevel": {
@@ -88,6 +89,7 @@ El intervalo de ejecución del servicio está definido en el archivo `appsetting
     "IntervalInMinutes": 1
   }
 }
+```
 
 Puedes modificar IntervalInMinutes para establecer el tiempo entre ejecuciones (en minutos).
 
@@ -97,11 +99,13 @@ Este proyecto implementa un servicio en segundo plano utilizando BackgroundServi
 
 En Program.cs, el Worker y la configuración del intervalo se registran así:
 
+```csharp
 builder.Services.Configure<ScheduleSettings>(
     builder.Configuration.GetSection("Schedule")
 );
 
 builder.Services.AddHostedService<Worker>();
+```
 
 🚀 Ejecución del Worker
 
@@ -109,11 +113,13 @@ builder.Services.AddHostedService<Worker>();
 
 2. Restaura los paquetes necesarios
 
-dotnet restore
+   ```bash
+   dotnet restore
 
 3. Ejecuta el proyecto
 
-dotnet run
+   ```bash
+   dotnet run
 
 
 🌐 3. Ejecutar el Frontend (React + Vite)
@@ -133,7 +139,7 @@ Pasos:
 
 📁 Ubicación:
 
-/scripts
+`/scripts`
 📝 Contenido esperado:
 
     setup_database.sql – Crea la base de datos y tablas
@@ -144,12 +150,14 @@ Pasos:
 
 Puedes ejecutarlos desde:
 
-    SQL Server Management Studio (SSMS)
+- SQL Server Management Studio (SSMS)
 
-    Visual Studio Code con la extensión SQL Server (mssql)
+- Visual Studio Code con la extensión SQL Server (mssql)
 
-    Terminal (sqlcmd) si está instalado:
-
-       sqlcmd -S localhost -d master -i scripts/01_create_database.sql
-       sqlcmd -S localhost -d NombreDB -i scripts/02_seed_data.sql
+- Terminal (sqlcmd) si está instalado:
+   ```bash
+   sqlcmd -S localhost -d master -i scripts/01_create_database.sql
+   sqlcmd -S localhost -d NombreDB -i scripts/02_seed_data.sql
+   ```
+   
 
