@@ -1,4 +1,4 @@
-📦 Proyecto Full Stack (.NET 9 + React + SQL Server)
+### 📦 Proyecto Full Stack (.NET 9 + React + SQL Server)
 
 Este repositorio contiene un sistema de ejemplo con:
 
