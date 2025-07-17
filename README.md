@@ -1,4 +1,4 @@
-### 📦 Proyecto Full Stack (.NET 9 + React + SQL Server)
+# 📦 Proyecto Full Stack (.NET 9 + React + SQL Server)
 
 Este repositorio contiene un sistema de ejemplo con:
 
@@ -25,27 +25,26 @@ Asegúrate de tener instaladas las siguientes herramientas:
 
 ---
 
-⚙️ 1. Ejecutar el Backend (DocProcessing.API) .NET 9
+## ⚙️ 1. Ejecutar el Backend (DocProcessing.API) .NET 9
 
-📁 Ubicación:
+### 📁 Ubicación:
 `/backend` (o donde esté ubicado tu proyecto .NET)
 
 Pasos:
 
 1. Abre la terminal en la carpeta del backend.
 2. Restaura los paquetes:
-
    ```bash
    dotnet restore
 
-Ejecuta la API con el comando:
+3. Ejecuta la API con el comando:
+   ```bash
+   dotnet run --launch-profile https
+   ```
 
-- dotnet run --launch-profile https
+### ⚙️ `Appsettings.json`
 
-
-Appsettings.json
-
-Configura appsettings.json con tu cadena de conexión a SQL Server.
+Configura `appsettings.json` con tu cadena de conexión a SQL Server. Es importante tener en cuenta que el nombre de la base de datos es `DocumentProcessing` una vez se ejecuten los scripts.
 
 ```json
 "ConnectionStrings": {
@@ -53,7 +52,7 @@ Configura appsettings.json con tu cadena de conexión a SQL Server.
 }
 ```
 
-El nombre de la base de datos es DocumentProcessing
+
 
 🛠️ 2. Servicio Worker con .NET (DocProcessing.InspeccionDocumentos)
 
@@ -61,7 +60,7 @@ Este proyecto contiene un **Service Worker** desarrollado con **.NET 9**, diseñ
 
 ---
 
-✅ Requisitos
+### ✅ Requisitos
 
 Antes de ejecutar el proyecto, asegúrate de tener:
 
@@ -71,7 +70,7 @@ Antes de ejecutar el proyecto, asegúrate de tener:
 | Visual Studio o VS Code | Opcional |
 | SQL Server o cualquier recurso que consuma el worker | (según lógica del proyecto) |
 
-⚙️ Configuración
+### ⚙️ Configuración
 
 El intervalo de ejecución del servicio está definido en el archivo `appsettings.json` mediante una sección llamada `Schedule`. Este valor se utiliza para indicar cada cuántos minutos se debe ejecutar la lógica programada del Worker.
 
@@ -93,7 +92,7 @@ El intervalo de ejecución del servicio está definido en el archivo `appsetting
 
 Puedes modificar IntervalInMinutes para establecer el tiempo entre ejecuciones (en minutos).
 
-🧩 ¿Cómo funciona el Service Worker?
+### 🧩 ¿Cómo funciona el Service Worker?
 
 Este proyecto implementa un servicio en segundo plano utilizando BackgroundService o IHostedService. La lógica de procesamiento se ejecuta periódicamente usando el valor configurado.
 
@@ -107,7 +106,7 @@ builder.Services.Configure<ScheduleSettings>(
 builder.Services.AddHostedService<Worker>();
 ```
 
-🚀 Ejecución del Worker
+### 🚀 Ejecución del Worker
 
 1. Abre una terminal en el directorio raíz del proyecto del Worker
 
@@ -122,9 +121,9 @@ builder.Services.AddHostedService<Worker>();
    dotnet run
 
 
-🌐 3. Ejecutar el Frontend (React + Vite)
+## 🌐 3. Ejecutar el Frontend (React + Vite)
 
-📁 Ubicación:
+### 📁 Ubicación:
 
 Pasos:
 1. Abre la terminal en la carpeta del frontend.
@@ -135,9 +134,9 @@ Pasos:
 4. Abre en tu navegador:
   http://localhost:5173
 
-🗃️ 4. Ejecutar Scripts de Base de Datos (SQL Server)
+## 🗃️ 4. Ejecutar Scripts de Base de Datos (SQL Server)
 
-📁 Ubicación:
+### 📁 Ubicación:
 
 `/scripts`
 📝 Contenido esperado:
@@ -146,7 +145,7 @@ Pasos:
 
     stored_procedures.sql – Crea los procedimientos almacenados
 
-📦 Ejecutar scripts:
+### 📦 Ejecutar scripts:
 
 Puedes ejecutarlos desde:
 
