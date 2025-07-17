@@ -25,7 +25,35 @@ Asegúrate de tener instaladas las siguientes herramientas:
 
 ---
 
-## ⚙️ 1. Ejecutar el Backend (DocProcessing.API) .NET 9
+
+## 🗃️ 1. Ejecutar Scripts de Base de Datos (SQL Server)
+
+### 📁 Ubicación:
+
+`/scripts`
+📝 Contenido esperado:
+
+    setup_database.sql – Crea la base de datos y tablas
+
+    stored_procedures.sql – Crea los procedimientos almacenados
+
+### 📦 Ejecutar scripts:
+
+Puedes ejecutarlos desde:
+
+- SQL Server Management Studio (SSMS)
+
+- Visual Studio Code con la extensión SQL Server (mssql)
+
+- Terminal (sqlcmd) si está instalado:
+   ```bash
+   sqlcmd -S localhost -d master -i scripts/01_create_database.sql
+   sqlcmd -S localhost -d NombreDB -i scripts/02_seed_data.sql
+   ```
+
+---
+
+## ⚙️ 2. Ejecutar el Backend (DocProcessing.API) .NET 9
 
 ### 📁 Ubicación:
 `/backend` (o donde esté ubicado tu proyecto .NET)
@@ -51,10 +79,9 @@ Configura `appsettings.json` con tu cadena de conexión a SQL Server. Es importa
   "DefaultConnection": "Server=localhost;Database=DocumentProcessing;Trusted_Connection=True;TrustServerCertificate=True"
 }
 ```
+---
 
-
-
-🛠️ 2. Servicio Worker con .NET (DocProcessing.InspeccionDocumentos)
+🛠️ 3. Servicio Worker con .NET (DocProcessing.InspeccionDocumentos)
 
 Este proyecto contiene un **Service Worker** desarrollado con **.NET 9**, diseñado para ejecutar tareas programadas en intervalos definidos desde `appsettings.json`.
 
@@ -120,8 +147,9 @@ builder.Services.AddHostedService<Worker>();
    ```bash
    dotnet run
 
+---
 
-## 🌐 3. Ejecutar el Frontend (React + Vite)
+## 🌐 4. Ejecutar el Frontend (React + Vite)
 
 ### 📁 Ubicación:
 
@@ -134,29 +162,4 @@ Pasos:
 4. Abre en tu navegador:
   http://localhost:5173
 
-## 🗃️ 4. Ejecutar Scripts de Base de Datos (SQL Server)
-
-### 📁 Ubicación:
-
-`/scripts`
-📝 Contenido esperado:
-
-    setup_database.sql – Crea la base de datos y tablas
-
-    stored_procedures.sql – Crea los procedimientos almacenados
-
-### 📦 Ejecutar scripts:
-
-Puedes ejecutarlos desde:
-
-- SQL Server Management Studio (SSMS)
-
-- Visual Studio Code con la extensión SQL Server (mssql)
-
-- Terminal (sqlcmd) si está instalado:
-   ```bash
-   sqlcmd -S localhost -d master -i scripts/01_create_database.sql
-   sqlcmd -S localhost -d NombreDB -i scripts/02_seed_data.sql
-   ```
-   
 
