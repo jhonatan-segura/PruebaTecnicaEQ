@@ -56,7 +56,7 @@ Puedes ejecutarlos desde:
 ## ⚙️ 2. Ejecutar el Backend (DocProcessing.API) .NET 9
 
 ### 📁 Ubicación:
-`/backend` (o donde esté ubicado tu proyecto .NET)
+`/backend`
 
 Pasos:
 
@@ -81,7 +81,7 @@ Configura `appsettings.json` con tu cadena de conexión a SQL Server. Es importa
 ```
 ---
 
-🛠️ 3. Servicio Worker con .NET (DocProcessing.InspeccionDocumentos)
+## 🛠️ 3. Servicio Worker con .NET (DocProcessing.InspeccionDocumentos)
 
 Este proyecto contiene un **Service Worker** desarrollado con **.NET 9**, diseñado para ejecutar tareas programadas en intervalos definidos desde `appsettings.json`.
 
