@@ -7,6 +7,9 @@ Este repositorio contiene un sistema de ejemplo con:
 - 🗄 Base de Datos: Scripts de SQL Server para crear y poblar la base de datos
 
 ---
+<img width="813" height="624" alt="imagen" src="https://github.com/user-attachments/assets/5f233bdc-15db-45d1-aaa5-a1fed33285a8" />
+
+Pantalla de inicio creada
 
 ✅ Requisitos
 
