@@ -1,6 +1,7 @@
 # Backend (.NET)
 backend/bin/
 backend/obj/
+backend/DocProcessing.API/.vscode/
 backend/*.user
 
 # Frontend (React)
